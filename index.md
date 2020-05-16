@@ -1,3 +1,3 @@
 #Hello World
 
-## Lorem Ipsul
+## Lorem Ipsum
